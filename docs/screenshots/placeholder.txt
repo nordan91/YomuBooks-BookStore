@@ -1,0 +1,9 @@
+Please place your application screenshots in this directory.
+Recommended screenshots:
+1. home.png (Landing page)
+2. product-detail.png (Book detail view)
+3. cart.png (Shopping cart)
+4. admin-dashboard.png (Admin panel)
+5. mobile-view.png (Responsive mobile view)
+
+Update the README.md to reference these filenames if you change them.
