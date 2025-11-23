@@ -45,7 +45,6 @@
 |:---:|:---:|
 | ![Cart](docs/screenshots/cart.png) | ![Admin Dashboard](docs/screenshots/admin-dashboard.png) |
 
-> *Note: Screenshots are placeholders. Please add actual images to `docs/screenshots/`.*
 
 ## 📦 Installation
 
